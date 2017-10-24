@@ -1,0 +1,78 @@
+Intel(R) HD Graphics 520
+
+
+
+
+Report Date: Thursday, October 19, 2017
+Report Time [hh:mm:ss]: 7:47:43 AM
+Driver Version: 21.20.16.4550
+Operating System: Windows* 10 Pro (10.0.14393)
+Physical Memory: 3986 MB
+Vendor ID: 8086
+Device ID: 1916
+Device Revision: 07
+Video BIOS: 1034.0
+Current Resolution: 1366 x 768
+
+
+
+
+Processor: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
+Processor Speed: 1992 MHz
+Processor Graphics in Use: Intel(R) HD Graphics 520
+Shader Version: 5.1
+OpenGL* Version: 4.4
+OpenCL* Version: 2.0
+
+
+* Microsoft DirectX* *
+Runtime Version: 12.0
+Hardware-Supported Version: 12.0
+
+
+
+
+* Devices connected to the Graphics Accelerator *
+
+
+Active Displays: 1
+
+
+
+
+* Built-in Display *
+
+
+Display Type: Digital
+DDC2 Protocol: Supported
+Gamma: 2.2
+Connector Type: Embedded DisplayPort
+Device Type: Built-in Display
+
+
+Maximum Image Size
+Horizontal Size: 13.39 inches
+Vertical Size: 7.48 inches
+
+
+Supported Modes
+1366 x 768 (60p Hz)
+1366 x 768 (40p Hz)
+
+
+
+
+
+Raw EDID:
+00 FF FF FF FF FF FF 00 06 AF EC 70 00 00 00 00 
+01 19 01 04 95 22 13 78 02 50 25 93 58 57 92 29 
+22 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 CE 1D 56 C0 50 00 30 30 08 0A 
+31 00 58 C1 10 00 00 18 DF 13 56 C0 50 00 30 30 
+08 0A 31 00 58 C1 10 00 00 18 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 
+00 10 48 FF 0F 3C 6E 1F 14 22 6E 20 20 20 00 A4 
+
+
+
+* Other names and brands are the property of their respective owners.
